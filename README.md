@@ -11,8 +11,9 @@ Python | Django | Flask | HTML | CSS | Bootstrap
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 ## Otras tecnologías que he utilizado:
-Unity | C# | Pascal
+Unity | C# | Pascal | Java
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/d7/24/08/d7240855-0e51-7f7e-6c2d-3bafdea5a05f/source/512x512bb.jpg" alt="pascal" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
