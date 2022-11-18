@@ -2,7 +2,7 @@
 
 Apasionado por la informática y estudiante de Ingeniería en Sistemas. Me gusta complementar mi carrera realizando cursos que puedes ver en mi <a href="https://www.linkedin.com/in/marcos-roman-lupiano/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mi LinkedIn" width="16"/> LinkedIn</a>  y proyectos que puedes ver en mis repositorios.
 
-## Tecnologías que utilizo:
+## Tecnologías en las que me centro:
 Python | Django | Flask | HTML | CSS | Bootstrap
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
