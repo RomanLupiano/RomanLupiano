@@ -1,6 +1,6 @@
 <h1> Hola! 👋 - Soy Marcos Román Lupiano <br> </h1> 
 
-Apasionado por la informática y estudiante de Ingeniería en Sistemas. Me gusta complementar mi carrera realizando cursos que puedes ver en mi <a href="https://www.linkedin.com/in/marcos-roman-lupiano/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mi LinkedIn" width="16"/> LinkedIn</a>  y proyectos que puedes ver en mis repositorios.
+Apasionado por la informática y desarrollador de software en formación dedicado al Backend con las tecnologías Python, Django y Flask. También estoy cursando la carrera de Ingeniería en Sistemas y a su vez me gusta realizar cursos y proyectos para complementar mis conocimientos.Te invito a visitar mi <a href="https://www.linkedin.com/in/marcos-roman-lupiano/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mi LinkedIn" width="16"/> LinkedIn</a> y mi <a href="https://romanlupiano.github.io/" target="_blank" rel="noreferrer"> Portfolio</a>.
 
 ## Tecnologías en las que me centro:
 Python | Django | Flask | HTML | CSS | Bootstrap
