@@ -3,21 +3,23 @@
 Apasionado por la informática y desarrollador de software en formación dedicado al Backend con las tecnologías Python, Django y Flask. También estoy cursando la carrera de Ingeniería en Sistemas y a su vez me gusta realizar cursos y proyectos para complementar mis conocimientos.Te invito a visitar mi <a href="https://www.linkedin.com/in/marcos-roman-lupiano/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mi LinkedIn" width="16"/> LinkedIn</a> y mi <a href="https://romanlupiano.github.io/" target="_blank" rel="noreferrer"> Portfolio</a>.
 
 ## Tecnologías en las que me centro:
-Python | Django | Flask | HTML | CSS | Bootstrap
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" alt="Django" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZSpvSw_GYFMCxg8stQY6y4ZUMut4liIVYlg&amp;usqp=CAU" alt="sqlite" height="40">
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Otras tecnologías que he utilizado:
-Unity | C# | Pascal | Java | Arduino | C++
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unity" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/d7/24/08/d7240855-0e51-7f7e-6c2d-3bafdea5a05f/source/512x512bb.jpg" alt="pascal" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="Arduino" height="40"/> </a>
-<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40"/> </a>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
